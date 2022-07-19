@@ -96,4 +96,13 @@ python evaluate_image_classifier.py
 
 **mir**: Whether to use MIR for uncertainty quantification.
 
+## Citation
 
+```
+@article{postels2021practicality,
+  title={On the practicality of deterministic epistemic uncertainty},
+  author={Postels, Janis and Segu, Mattia and Sun, Tao and Van Gool, Luc and Yu, Fisher and Tombari, Federico},
+  journal={International Conference on Machine Learning},
+  year={2022}
+}
+```
